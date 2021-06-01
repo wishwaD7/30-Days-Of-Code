@@ -17,7 +17,6 @@ class Result {
     System.out.println(totalCost);
   
     }
-
 }
 
 public class Solution {
